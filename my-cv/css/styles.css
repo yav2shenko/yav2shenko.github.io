@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.main {
+    background-color: #f5f7fa;
+    padding: 20px;
+    margin: 0 auto;
+    width: 1280px;
+}
+.wrapper {
+    background-color: #fff;
+    display: flex;
+}
+.sidebar {
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sidebar-containers {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.sidebar-titles {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 10px;
+}
+.contacts-link-phone, .contacts-link-email {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a6a8ad;
+}
+.contacts-link-phone {
+    text-decoration: none;
+}
+.sidebar-lists {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    list-style: disc;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+.sidebar-lists span {
+    color: #9fa1a6;
+}
+.about-me-container {
+    padding: 110px 90px;
+}
+.about-me {
+    width: 550px;
+}
+.my-speciality {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000;
+}
+.my-name {
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    color: #000;
+}
+.my-information {
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+.about-me-container-titles {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000;
+    margin-top: 55px;
+}
+.my-projects-list {
+    list-style-type: decimal;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000;
+}
+.my-projects-links {
+    color: #595959;
+    font-weight: 400;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.my-projects-list span {
+    color: #595959;
+    font-weight: 400;
+}
+.my-jobs {
+    margin-top: 55px;
+}
+.company-name {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000;
+}
+.company-name span {
+    color: #ff6b08;
+}
+.job-period {
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+}
+.job-period span {
+    color: #000;
+    font-weight: 700;
+}
+.achievements-list {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    list-style: disc;
+    margin-left: 15px;
+    width: 550px;
+}
+.my-education {
+    margin-top: 20px;
+}
+.university-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+    width: 550px;
+}
+.university-specialty {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000;
+}
+.study-period {
+    margin-top: 10px;
+    font-size: 12px;
+    v
+    line-height: 24px;
+    color: #a8a8a8;
+}
+.study-period span {
+    color: #000;
+    font-weight: 700;
+}
